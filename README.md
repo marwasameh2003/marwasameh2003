@@ -24,7 +24,7 @@
 
 ### Connect with Me :
 
-<a href="linkedin.com/in/marwa-mostafa-628303267" target="_blank"><img src="https://img.shields.io/badge/-MarwaSameh-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="[linkedin.com/in/marwa-mostafa-628303267]" target="_blank"><img src="https://img.shields.io/badge/-MarwaSameh-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marwamostafa322@gmail.com)
 <a href="https://t.me/MarwaSameh03" target="_blank"><img src="https://img.shields.io/badge/-MarwaSameh-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Currently Learning 
