@@ -31,8 +31,12 @@
 ### 🛠 &nbsp;Currently Learning 
 <p align="left">
   <div align="left">
+    <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></code>
+    <code><img height="40" src="https://www.google.com/search?q=LINQ&sca_esv=85c381dd8ee61fc7&sca_upv=1&rlz=1C1GCEA_enEG1065EG1065&udm=2&biw=1133&bih=549&sxsrf=ADLYWILzJ2F5v0eP2KkbULaYO4pSGxjJtQ%3A1726562595408&ei=I0HpZoPOGLCLkdUP66j8MA&ved=0ahUKEwjD67nxysmIAxWwRaQEHWsUHwYQ4dUDCBA&uact=5&oq=LINQ&gs_lp=Egxnd3Mtd2l6LXNlcnAiBExJTlEyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESNwWUKgIWM4TcAJ4AJABAJgBjgGgAYsEqgEDMC40uAEDyAEA-AEBmAIGoAKhBMICChAAGIAEGEMYigXCAgQQABgDwgIEECMYJ8ICCBAAGIAEGLEDmAMAiAYBkgcDMi40oAfVFA&sclient=gws-wiz-serp#vhid=c3u30AQ-TL-NKM&vssid=mosaic"></code>
+    <code><img height="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.codeproject.com%2FArticles%2F1064966%2FDeveloper-Guide-to-Entity-Framework-Part&psig=AOvVaw2jso69Ke8_FEk7is8dL0q6&ust=1726649034434000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNju8YTLyYgDFQAAAAAdAAAAABAE"></code>
+    <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg"></code>
+
   </div>
  </p>
 
